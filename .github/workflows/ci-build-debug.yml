@@ -21,14 +21,6 @@ jobs:
       - name: Make Gradle executable
         run: chmod +x ./gradlew
 
-      - name: Cache Gradle Folders
-          uses: actions/cache@v2
-          with:
-            path: |
-              ~/.gradle/caches/
-              ~/.gradle/wrapper/
-            key: cache-gradle
-
       - name: Build with Gradle
         run: ./gradlew build
 
