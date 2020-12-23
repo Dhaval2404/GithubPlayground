@@ -7,4 +7,4 @@ Explore github
 [![PRWelcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Dhaval2404/GithubPlayground)
 [![ktlint](https://img.shields.io/badge/code%20style-%E2%9D%A4-FF4081.svg)](https://ktlint.github.io/)
 ![License](https://img.shields.io/github/license/Dhaval2404/GithubPlayground.svg)
-![Build Status](https://github.com/Dhaval2404/GithubPlayground/workflows/Android%20CI/badge.svg)
+![Build Status](https://github.com/Dhaval2404/GithubPlayground/workflows/build%20debug/badge.svg)

@@ -23,7 +23,7 @@ jobs:
 
       - name: Make Gradle executable
         run: chmod +x ./gradlew
-        
+
       - name: lint
         run: ./gradlew lint
 
